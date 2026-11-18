@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.DotSettings.user
+__pycache__/
+experiments/raw-data/server.pid

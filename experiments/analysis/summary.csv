@@ -1,0 +1,4 @@
+ClientCount,AvgLatency_Mean,AvgLatency_Std,P95Latency_Mean,P95Latency_Std,Throughput_Mean,Throughput_Std,ErrorRate_Mean,ErrorRate_Std,ServerCpu_Mean,ServerCpu_Std
+1,0.1923,0.0149,0.3091,0.0049,5086.2667,380.1465,0.0,0.0,23.5533,1.0984
+10,0.7799,0.036,1.6279,0.1849,12706.8333,591.2066,0.0,0.0,28.7233,2.0502
+50,2.6127,1.0305,6.0299,1.5255,21192.9833,8346.8682,0.0,0.0,26.83,2.325

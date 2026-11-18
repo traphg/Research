@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/load-generator/">
+    <Project Path="src/load-generator/LoadGenerator.csproj" />
+  </Folder>
+  <Folder Name="/src/server/">
+    <Project Path="src/server/TcpServer.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,9 @@
+{
+    "Port":  9000,
+    "Host":  "127.0.0.1",
+    "TimeoutMs":  5000,
+    "WarmupSec":  5,
+    "DurationSec":  20,
+    "ClientCount":  1,
+    "PayloadBytes":  1024
+}
